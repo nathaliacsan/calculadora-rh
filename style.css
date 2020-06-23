@@ -1,0 +1,56 @@
+body {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+    background-color: #14427e;
+}
+
+h1 {
+    font-family: 'Solway', serif;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    color: white;
+}
+
+fieldset {
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+    padding: 64px; 
+    background-color: #dc5915;
+    border-style: none;
+    border-radius: 8px;
+
+}
+
+.field {
+    background-color: white;
+    border: 0;
+    padding: 16px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    
+}
+
+label {
+    font-family: 'Solway', serif;
+    display: block;
+    margin-left: 30%;
+
+}
+
+input {
+    display: block;
+    margin-top: 1px;
+    margin-left: 36%;
+}
+
+button {
+    margin-top: 8px;
+    margin-left: 220px;
+    width: 100px;
+    border-style: none;
+    border: 1px #14427e;
+}
+
